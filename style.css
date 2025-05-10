@@ -1,0 +1,61 @@
+h1 {
+     color: rgb(40, 40, 114);
+     font-size: 2em;
+     text-align: left;
+     margin: 0cm 0cm 0cm 0cm;
+
+}
+
+
+
+.styledhr{
+     border: 1px solid rgb(40, 40, 114);
+     height: 1px;
+     background-color: rgb(40, 40, 114);
+     margin: 0cm 0cm 0cm 0cm;
+}
+
+
+
+.job-title{
+     color: rgb(171, 171, 171);
+     font-size: 1.5em;
+     text-align: left;
+     margin: 0cm 0cm 0cm 0cm;
+     font-weight: bolder;
+}
+
+
+
+p{
+     color : rgb(0, 0, 0);
+     font-size: 1.2em;
+     font-weight: 500;
+     text-align: left;
+}
+
+
+pre{
+     color : rgb(0, 0, 0);
+     font-size: 2em;
+     font-weight: bolder;
+     text-align: left;
+     
+     padding: 10px;
+     border-radius: 5px;
+}
+
+ul{
+     margin-left: 150px;
+}
+
+.highlight{
+     color: rgb(149, 13, 13);
+     font-weight: bolder;
+}
+
+.highlight a {
+    color: rgb(149, 13, 13); /* Match the color of the .highlight class */
+    text-decoration: none; /* Optional: Removes underline from the link */
+    font-weight: bolder; /* Ensures the link is bold */
+}
